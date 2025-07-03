@@ -38,22 +38,6 @@ HTML/CSS	Frontend layout & styling
 JSON	Stores taco recipe data
 
 
-🗂️ Folder Structure
-
-taco-town/
-│
-├── public/                  → Static files (CSS, images)
-│   └── styles/
-│       └── main.css
-│
-├── views/                   → EJS templates
-│   └── index.ejs
-│
-├── recipes.json             → (optional) Taco recipe data
-├── index.js                 → Main Express server
-├── package.json
-└── README.md                → You’re here!
-
 
 ⚙️ How to Run
 
